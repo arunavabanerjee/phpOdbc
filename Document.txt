@@ -1,0 +1,3 @@
+
+https://docstore.mik.ua/orelly/webprog/php/ch08_01.htm
+https://www.ibm.com/developerworks/library/os-php-odbc/index.html
